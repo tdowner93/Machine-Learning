@@ -210,3 +210,4 @@ py.offline.iplot(fig)
 df.head()
 
 df.to_csv("segmented_customers.csv", index = False)
+
